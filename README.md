@@ -7,6 +7,8 @@
 I'm 4shktz (hktz), a 16 years old web developer from France.
 I'm currently learning at [EDEN School](https://edenschool.fr/).
 
+<hr>
+
 <h2 align="center"> My Code Presentation</h2>
 
 ```html
