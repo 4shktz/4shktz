@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://socialify.git.ci/4shktz/4shktz/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="4shktz" width="700" height="300" />
+</p>
+
+## Hey !
+
+I'm 4shktz (hktz), a 16 years old web developer from France.
+I'm currently learning at [EDEN School](https://edenschool.fr/).
+
+## My Code Presentation
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -38,3 +49,11 @@ const hktz = {
    challenge: "I\'m learning a lot of languages to master almost of them."
 };
 ```
+
+## Projects 
+
+Working on an algorithm interpreter app and other stuff...
+
+## Contact Me 
+
+Soon...
