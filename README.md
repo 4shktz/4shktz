@@ -4,8 +4,13 @@
 
 <h1 align="center"> Hey ! 👋</h1>
 
-I'm 4shktz (hktz), a 16 years old web developer from France.
-I'm currently learning at [EDEN School](https://edenschool.fr/).
+<p align="center">
+  I'm 4shktz (hktz), a 16 years old web developer from France.
+</p>
+
+<p align="center">
+  I'm currently learning at [EDEN School](https://edenschool.fr/).
+</p>
 
 <hr>
 
@@ -56,10 +61,14 @@ const hktz = {
 
 <h2 align="center">Projects</h2> 
 
-Working on an algorithm interpreter app and other stuff...
+<p align="center">
+  Working on an algorithm interpreter app and other stuff...
+</p>
 
 <hr>
 
 <h2 align="center">Contact Me ☎️</h2> 
 
-Soon...
+<p align="center">
+  Soon...
+</p>
