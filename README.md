@@ -2,7 +2,7 @@
   <img src="https://socialify.git.ci/4shktz/4shktz/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="4shktz" width="700" height="300" />
 </p>
 
-<h1 align="center"> Hey ! 👋</h1>
+<h1 align="center">Hey ! 👋</h1>
 
 <p align="center">
   I'm 4shktz (hktz), a 16 years old web developer from France.
@@ -12,9 +12,20 @@
   I'm currently learning at [EDEN School](https://edenschool.fr/).
 </p>
 
+<div align="center">
+  <img alt="C++" src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=005494"></a>
+  
+  <img alt="C#" src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=239120"></a> 
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
+  <img alt="JS" src="https://img.shields.io/badge/JavaScript-0bcf4c?style=for-the-badge&logo=java&logoColor=white"></a>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+  <img alt="Python" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=f2c83f"></a>  
+</div>
+
 <hr>
 
-<h2 align="center"> My Code Presentation</h2>
+<h2 align="center">My Code Presentation</h2>
 
 ```html
 <!DOCTYPE html>
