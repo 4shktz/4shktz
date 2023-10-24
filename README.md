@@ -52,9 +52,13 @@ const hktz = {
 };
 ```
 
+<hr>
+
 <h2 align="center">Projects</h2> 
 
 Working on an algorithm interpreter app and other stuff...
+
+<hr>
 
 <h2 align="center">Contact Me ☎️</h2> 
 
