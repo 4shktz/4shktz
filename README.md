@@ -1,29 +1,20 @@
-<p align="center">
-  <img src="https://socialify.git.ci/4shktz/4shktz/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="4shktz" width="700" height="300" />
-</p>
+<img src="https://socialify.git.ci/4shktz/4shktz/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="4shktz" width="700" height="300" />
 
-<h1 align="center">Hey ! 👋</h1>
+## Hey ! 👋
 
-<p align="center">
-  I'm 4shktz (hktz), a 16 years old web developer from France.
-</p>
+I'm 4shktz (hktz), a 16 years old web developer from France.
+I'm currently learning at [EDEN School](https://edenschool.fr/).
 
-<p align="center">
-  I'm currently learning at [EDEN School](https://edenschool.fr/).
-</p>
-
-<div align="center">
-  <img alt="C++" src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=005494"></a>
-  <img alt="C#" src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=239120"></a> 
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>  
-</div>
+<img alt="C++" src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=005494"></a>
+<img alt="C#" src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=239120"></a> 
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>  
 
 <hr>
 
-<h2 align="center">My Code Presentation</h2>
+## My Code Presentation
 
 ```html
 <!DOCTYPE html>
@@ -68,16 +59,12 @@ const hktz = {
 
 <hr>
 
-<h2 align="center">Projects</h2> 
+## Projects 
 
-<p align="center">
-  Working on an algorithm interpreter app and other stuff...
-</p>
+Working on an algorithm interpreter app and other stuff...
 
 <hr>
 
-<h2 align="center">Contact Me ☎️</h2> 
+## Contact Me ☎️ 
 
-<p align="center">
-  Soon...
-</p>
+Soon...
